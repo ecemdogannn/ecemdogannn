@@ -2,7 +2,7 @@
 -
 
 - 👋 Hi, I’m @ecemdogannn
-- 🏫Yönetim Bilişim Sistemleri Bölümü 2.Sınıf Öğrencisiyim.
+- 🏫Yönetim Bilişim Sistemleri Bölümü 3.Sınıf Öğrencisiyim.
 - 👀 C#, Java, Sql biliyorum.
 - 🌱 I’m currently learning Html, CSS, Python.
 - 📫  Contact me! ecemdogannn123@gmail.com <br>
