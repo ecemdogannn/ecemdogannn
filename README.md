@@ -2,9 +2,10 @@
 -
 
 - 👋 Hi, I’m @ecemdogannn
-- 🏫Yönetim Bilişim Sistemleri Bölümü 3.Sınıf Öğrencisiyim.
-- 👀 C#, Java, Sql biliyorum.
-- 🌱 I’m currently learning Html, CSS, Python.
+- 🎓 3rd-year Management Information Systems (Yönetim Bilişim Sistemleri) student
+- 👀 Skilled in: Java, Spring Boot, C#, SQL, n8n, REST API development, Docker, PostgreSQL, HTML, CSS, Python
+- 🌱 Currently deepening my knowledge in: Advanced Java Backend Development, Spring Security, API Integration, Cloud Services
+- 💻 Interested in: Web Development, Backend Systems, Automation, AI Integration, Microservices
 - 📫  Contact me! ecemdogannn123@gmail.com <br>
 
 <b> 🛠️Kullandığım Teknolojiler ve Araçlar:<br>
